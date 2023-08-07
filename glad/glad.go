@@ -11,8 +11,8 @@ import (
 	"golang.org/x/xerrors"
 	"gopkg.in/yaml.v2"
 
-	"github.com/aquasecurity/vuln-list-update/git"
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/git"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/utils"
 )
 
 const (

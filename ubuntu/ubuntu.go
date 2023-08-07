@@ -9,13 +9,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aquasecurity/vuln-list-update/git"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/git"
 
 	"github.com/araddon/dateparse"
 
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/utils"
 )
 
 const (

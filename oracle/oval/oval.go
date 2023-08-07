@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/utils"
 	"github.com/spf13/afero"
 	"golang.org/x/xerrors"
 	pb "gopkg.in/cheggaaa/pb.v1"

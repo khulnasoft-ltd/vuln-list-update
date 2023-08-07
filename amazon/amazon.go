@@ -6,7 +6,7 @@ import (
 	"compress/gzip"
 	"encoding/xml"
 	"fmt"
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/utils"
 	"golang.org/x/xerrors"
 	"gopkg.in/cheggaaa/pb.v1"
 	"log"

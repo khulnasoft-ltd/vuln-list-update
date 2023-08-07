@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/utils"
 	"github.com/cheggaaa/pb/v3"
 	"golang.org/x/xerrors"
 )

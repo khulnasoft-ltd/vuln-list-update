@@ -2,17 +2,17 @@
 
 [![Go Report Card][report-card-img]][report-card]
 [![License][license-img]][license]
-[![Update vuln-list repo](https://github.com/aquasecurity/vuln-list-update/actions/workflows/update.yml/badge.svg)](https://github.com/aquasecurity/vuln-list-update/actions/workflows/update.yml)
+[![Update vuln-list repo](https://github.com/khulnasoft-ltd/vuln-list-update-update/actions/workflows/update.yml/badge.svg)](https://github.com/khulnasoft-ltd/vuln-list-update-update/actions/workflows/update.yml)
 
-[report-card-img]: https://goreportcard.com/badge/github.com/aquasecurity/vuln-list-update
-[report-card]: https://goreportcard.com/report/github.com/aquasecurity/vuln-list-update
+[report-card-img]: https://goreportcard.com/badge/github.com/khulnasoft-ltd/vuln-list-update-update
+[report-card]: https://goreportcard.com/report/github.com/khulnasoft-ltd/vuln-list-update-update
 [license-img]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
-[license]: https://github.com/aquasecurity/vuln-list-update/blob/main/LICENSE
+[license]: https://github.com/khulnasoft-ltd/vuln-list-update-update/blob/main/LICENSE
 
 Collect vulnerability information and save it in parsable format automatically
 
 ## Data
-https://github.com/aquasecurity/vuln-list/
+https://github.com/khulnasoft-ltd/vuln-list-update/
 
 ## Usage
 

@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/aquasecurity/vuln-list-update/rocky"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/rocky"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

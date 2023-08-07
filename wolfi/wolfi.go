@@ -8,8 +8,8 @@ import (
 	"github.com/spf13/afero"
 	"golang.org/x/xerrors"
 
-	"github.com/aquasecurity/vuln-list-update/alpine"
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/alpine"
+	"github.com/khulnasoft-ltd/vuln-list-update-update/utils"
 )
 
 const (

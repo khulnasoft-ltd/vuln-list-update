@@ -20,8 +20,8 @@ Thank you for taking interest in contributing to vuln-list-update !
 
 ## Understand where your pull request belongs
 
-Trivy is composed of several different repositories that work together:
-- [Trivy](https://github.com/aquasecurity/trivy) is the client side, user facing, command line tool.
-- [vuln-list](https://github.com/aquasecurity/vuln-list) is a vulnerabilities database, aggregated from different sources, and normalized for easy consumption. This of this as the "server" side of the trivy command line tool. **There should be no pull requests to this repo** 
-- [vuln-list-update](https://github.com/aquasecurity/vuln-list-update) is the code that maintains the vuln-list database.
-- [fanal](https://github.com/aquasecurity/fanal) is a library for extracting system information containers. It is being used by trivy to find testable subjects in the container image.
+Vul is composed of several different repositories that work together:
+- [Vul](https://github.com/khulnasoft-ltd/vul) is the client side, user facing, command line tool.
+- [vuln-list](https://github.com/khulnasoft-ltd/vuln-list-update) is a vulnerabilities database, aggregated from different sources, and normalized for easy consumption. This of this as the "server" side of the vul command line tool. **There should be no pull requests to this repo** 
+- [vuln-list-update](https://github.com/khulnasoft-ltd/vuln-list-update-update) is the code that maintains the vuln-list database.
+- [fanal](https://github.com/khulnasoft-ltd/fanal) is a library for extracting system information containers. It is being used by vul to find testable subjects in the container image.
